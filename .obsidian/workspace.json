@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "ad0292dc50bc5c2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1b61140eff7bd04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a640fc539651140b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DJANGO (PYTHON).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63ff53d87f1286f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML & CSS (T&T).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "460a1b2976a516ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "41692580a54cf508",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c34a4c2934bcc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "887e89c48e9fd8af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#J_P_SARTRE",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d21c6581de9603e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "09b327aad7a288ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e986316e92056f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e1ede51ae2f073",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DJANGO (PYTHON).md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f1d190fc04c39a90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DJANGO (PYTHON).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ebc83347038d743",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7809a07446a5dacb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DJANGO (PYTHON).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "a640fc539651140b",
+  "lastOpenFiles": [
+    "EXPRESSIONS USUELLES.md",
+    "DJANGO (PYTHON).md",
+    "HTML & CSS (T&T).md",
+    "DROIT & JUSTICE.md",
+    "PROGRAMMING/JAVASCRIPT TRIPS & TICS.md",
+    "PROGRAMMING",
+    "TECHNIQUES D'EVANGELISATION.md",
+    "LA DIRECTION.md",
+    "LA  COMMUNICATION.md",
+    "CSE + INCST.md",
+    "PHILO/VIOLENCE & PAIX.md",
+    "LA SENSIBILITÉ.md",
+    "PHILO/Les citations philosophiques !.md",
+    "PHILO/Les grands auteurs et leurs pensées.md",
+    "PHILO/Les grands thèmes et sous-thèmes philosophiques.md",
+    "LA PLATEFORME E-COMMERCE RÉVOLUTIONNAIRE.md",
+    "MISV",
+    "ZAMOO",
+    "PHILO/AUTRUI.md",
+    "EXERCICES.md",
+    "SUJET PHILO.md",
+    "MY QUOTES (GOHI ALAIN).md",
+    "ENTREPRENEURIAT/ENTREPRISE D'APPRENTISSAGE INFORMATIQUE..md",
+    "Sans titre 2.md",
+    "MyQuotes",
+    "ENTREPRENEURIAT/Mon entreprise digitale.md",
+    "DIGITAL MARKETING/Les bases du Marketing Digital.md",
+    "Personal Data/VIE PROFESSIONNELLE.md",
+    "Personal Data/SMM TOOLS.md",
+    "Personal Data/POSTS TECHNICS.md",
+    "Français",
+    "PHILO",
+    "ENTREPRENEURIAT",
+    "DIGITAL MARKETING",
+    "Sans titre 1.canvas",
+    "Junior",
+    "Sans titre.canvas",
+    "Personal Data"
+  ]
+}
